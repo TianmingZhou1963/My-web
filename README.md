@@ -19,7 +19,7 @@ My personal Website for practising
 
 # VIEW Website
 
-## "https://github.com/TianmingZhou1963/My-web.git"
+## "https://my-web-two-ivory.vercel.app/"
 
 ## run in 
 
