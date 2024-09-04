@@ -1,6 +1,6 @@
 # This is my Personal Website build using React.js
 
-The website Collecting all information about me
+My personal Website for practising
 
 ## technology used
 
